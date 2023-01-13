@@ -86,8 +86,8 @@ h3 {
 
 
 h4 {
-  font-size: 3.8rem;
-  font-weight: 500;
+  font-size: 2rem;
+  font-weight: 700;
 }
 
 p {
@@ -366,8 +366,61 @@ width: 100%;
 /*--------------------------------------------------------------------------------------------------------*/
 
 
+
 #testimnials .dots{
   color: #7a12d4;
   
 
+}
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------------------------*/
+/********************************************** Learn section  ********************************************/
+/*--------------------------------------------------------------------------------------------------------*/
+
+/* #learn-section .number-box{
+padding: 20px 20px;
+width: 30px;
+height: 30px;
+background-color: #7a12d4;
+border-radius: 50px;
+
+color: #ffffff;
+font-size: 1.2rem;
+text-align: center;
+} */
+
+
+#learn-section .number-box{
+  width: 25px;
+  height: 25px;
+  line-height: 23px;
+  border-radius: 50%;
+  font-size: 1.1rem;
+  color: #fff;
+  text-align: center;
+  background: cadetblue;
+  font-weight: 500;
+  display: inline-block;
+}
+#learn-section .number-box-text{
+color: cadetblue;
+}
+#learn-section .hr-line{
+  width: 65px;
+  height: 4px;
+  background-color:cadetblue;
+
+}
+
+#learn-section .row-2 img{
+  border-radius: 5px;
+}
+
+#learn-section .row-2 p{
+  font-size: 0.8rem;
 }
